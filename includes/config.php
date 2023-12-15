@@ -1,8 +1,9 @@
 <?php
-define('DB_SERVER','localhost');
-define('DB_USER','root');
-define('DB_PASS' ,'');
-define('DB_NAME','blog');
+define('DB_SERVER','terraform-20231002010411504000000008.ctjten6aavan.us-east-2.rds.amazonaws.com');
+define('DB_USER','z254User');
+define('DB_PASS' ,'Td4aokFxFM0gY6XJ1o');
+define('DB_NAME','xxxage_254report');
+
 $con = mysqli_connect(DB_SERVER,DB_USER,DB_PASS,DB_NAME);
 // Check connection
 if (mysqli_connect_errno())
