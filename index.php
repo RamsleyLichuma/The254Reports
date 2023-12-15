@@ -44,7 +44,7 @@
                               <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Ramsley  Lichuma.</a>
                               
                            </p>
-                           <p class="m-0"><small> Xxxage Tech Inc.</small></p>
+                           <p class="m-0"><small> Xxxage Tech Incoporated</small></p>
                            <a href="#" class="card-title text-decoration-none text-dark">
                               <h5 class="card-title">Biulding a diverse network to ensure you are updated about Local and Global events. </h5>
                            </a>
