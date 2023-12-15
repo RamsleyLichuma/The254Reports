@@ -41,7 +41,7 @@
                         <div class="card-body">
                            <p class="m-0">
                               <!--category-->
-                              <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Ramsley Lichuma.</a>
+                              <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Ramsley  Lichuma.</a>
                               
                            </p>
                            <p class="m-0"><small> Xxxage Tech Inc.</small></p>
