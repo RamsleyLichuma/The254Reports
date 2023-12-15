@@ -58,7 +58,7 @@
                         <div class="card-body">
                            <p class="m-0">
                               <!--category-->
-                              <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Sylvia Makinia</a>
+                              <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Sylvia  Makinia</a>
                               
                            </p>
                            <p class="m-0"><small> Africa Fact Check. Kenya</small></p>
